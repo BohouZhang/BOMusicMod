@@ -22,3 +22,6 @@ gradle-app.setting
 
 # IDEA files
 .idea
+
+# MacOS files
+.DS_Store
