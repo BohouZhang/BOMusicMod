@@ -3,7 +3,7 @@
 	"package": "com.bohou.bomusicmod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"BOMusicModMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

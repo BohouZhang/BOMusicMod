@@ -3,9 +3,10 @@
 	"id": "bomusicmod",
 	"version": "${version}",
 	"name": "BOMusicMod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "更多音乐！更多音乐！！更多音乐！！！",
 	"authors": [
-		"Me!"
+		"Bohou.Zhang",
+		"Oliver"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -17,6 +18,9 @@
 	"entrypoints": {
 		"main": [
 			"com.bohou.bomusicmod.BOMusicMod"
+		],
+		"client": [
+			"com.bohou.bomusicmod.BOMusicModClient"
 		],
 		"fabric-datagen": [
 			"com.bohou.bomusicmod.BOMusicModDataGenerator"
